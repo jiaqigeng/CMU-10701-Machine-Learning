@@ -8,4 +8,4 @@ HW3: Neural Networks
 
 HW4: SVM, Kernels, Duality, Real-World Practice
 
-HW5: 
+HW5: Rademacher Complexity, MDPs, Policy Optimization
